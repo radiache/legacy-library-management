@@ -27,3 +27,18 @@ For building and running the application you need:
   http://localhost:8081
 ```
 
+### Features
+
+![Books]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/Books.png)
+![addBook]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/AddBook.png)
+![search]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/Search.png)
+![Authors]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/Authors.png)
+![Categories]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/Categories.png)
+![Publishers]
+(https://github.com/radiache/legacy-library-management/blob/main/Photo/Publishers.png)
+
